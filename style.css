@@ -1,0 +1,38 @@
+#apps{
+    background-color: sandybrown;
+    text-align: center;
+    padding-bottom: 25px;
+
+}
+
+#games{
+    background-color: salmon;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#chatbot{
+    background-color: pink;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    color: purple;
+}
+
+img:hover{
+  transform: rotate(35deg);
+  transition: width 2s, height 2s, transform 2s;
+}
+
+.line{
+    height: 6px;
+    background-color: black;
+    margin: 8px auto;
+    width: 50px;
+}
+
